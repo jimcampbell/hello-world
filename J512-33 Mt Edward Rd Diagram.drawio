@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.8.6">
+  <diagram name="Page-1" id="hON817pBuhwTag-BimD2">
+    <mxGraphModel dx="1534" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-2" value="" style="shape=mxgraph.pid.pumps.centrifugal_pump_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="62" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-3" value="" style="shape=mxgraph.pid.pumps.centrifugal_pump_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="62" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-4" value="" style="shape=mxgraph.pid.pumps.centrifugal_pump_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="62" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11910;points=[[0.5,0,0],[0.5,1,0]]" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="37.34" height="75.04" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11920;points=[[0.22,0,0],[0.22,1,0]]" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="83.76" height="75.04" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-7" value="" style="shape=mxgraph.pid.vessels.tank_(dished_roof);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rZGCWJ2bdaLeoKN1htKS-8" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=needle" vertex="1" parent="1">
+          <mxGeometry x="560" y="465" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
